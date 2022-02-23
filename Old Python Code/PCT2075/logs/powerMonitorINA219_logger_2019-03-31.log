@@ -1,0 +1,26 @@
+2019-03-31_12:09:58.371 : powerMonitorINA219_logger.powerMonitorINA219_addr0x44 : INFO : Instantiated powerMonitorINA219_addr0x44
+2019-03-31_12:09:58.375 : powerMonitorINA219_logger : WARNING : IOError in writeWord : [Errno 121] Remote I/O error
+2019-03-31_12:09:58.377 : powerMonitorINA219_logger : WARNING : IOError in writeWord : [Errno 121] Remote I/O error
+2019-03-31_12:09:58.380 : powerMonitorINA219_logger : WARNING : IOError in writeWord : [Errno 121] Remote I/O error
+2019-03-31_12:09:58.382 : powerMonitorINA219_logger : ERROR : Failed to write word: 0x9f21 to device: 			0x44, register: 0x0 after 3 attempts
+2019-03-31_12:09:58.387 : powerMonitorINA219_logger : WARNING : IOError in writeWord : [Errno 121] Remote I/O error
+2019-03-31_12:09:58.390 : powerMonitorINA219_logger : WARNING : IOError in writeWord : [Errno 121] Remote I/O error
+2019-03-31_12:09:58.392 : powerMonitorINA219_logger : WARNING : IOError in writeWord : [Errno 121] Remote I/O error
+2019-03-31_12:09:58.403 : powerMonitorINA219_logger : ERROR : Failed to write word: 0x9f21 to device: 			0x44, register: 0x0 after 3 attempts
+2019-03-31_12:09:58.407 : powerMonitorINA219_logger : WARNING : IOError in writeWord : [Errno 121] Remote I/O error
+2019-03-31_12:09:58.410 : powerMonitorINA219_logger : WARNING : IOError in writeWord : [Errno 121] Remote I/O error
+2019-03-31_12:09:58.419 : powerMonitorINA219_logger : WARNING : IOError in writeWord : [Errno 121] Remote I/O error
+2019-03-31_12:09:58.421 : powerMonitorINA219_logger : ERROR : Failed to write word: 0xf0c1 to device: 			0x44, register: 0x5 after 3 attempts
+2019-03-31_13:35:21.41 : powerMonitorINA219_logger.powerMonitorINA219_addr0x44 : INFO : Instantiated powerMonitorINA219_addr0x44
+2019-03-31_13:35:21.47 : powerMonitorINA219_logger : WARNING : IOError in writeWord : [Errno 121] Remote I/O error
+2019-03-31_13:35:21.50 : powerMonitorINA219_logger : WARNING : IOError in writeWord : [Errno 121] Remote I/O error
+2019-03-31_13:35:21.54 : powerMonitorINA219_logger : WARNING : IOError in writeWord : [Errno 121] Remote I/O error
+2019-03-31_13:35:21.57 : powerMonitorINA219_logger : ERROR : Failed to write word: 0x9f21 to device: 			0x44, register: 0x0 after 3 attempts
+2019-03-31_13:35:21.64 : powerMonitorINA219_logger : WARNING : IOError in writeWord : [Errno 121] Remote I/O error
+2019-03-31_13:35:21.68 : powerMonitorINA219_logger : WARNING : IOError in writeWord : [Errno 121] Remote I/O error
+2019-03-31_13:35:21.73 : powerMonitorINA219_logger : WARNING : IOError in writeWord : [Errno 121] Remote I/O error
+2019-03-31_13:35:21.76 : powerMonitorINA219_logger : ERROR : Failed to write word: 0x9f21 to device: 			0x44, register: 0x0 after 3 attempts
+2019-03-31_13:35:21.83 : powerMonitorINA219_logger : WARNING : IOError in writeWord : [Errno 121] Remote I/O error
+2019-03-31_13:35:21.93 : powerMonitorINA219_logger : WARNING : IOError in writeWord : [Errno 121] Remote I/O error
+2019-03-31_13:35:21.98 : powerMonitorINA219_logger : WARNING : IOError in writeWord : [Errno 121] Remote I/O error
+2019-03-31_13:35:21.113 : powerMonitorINA219_logger : ERROR : Failed to write word: 0xf0c1 to device: 			0x44, register: 0x5 after 3 attempts
